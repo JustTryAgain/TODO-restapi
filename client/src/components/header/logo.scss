@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+.container{
+  border-radius: 5px;
+  border: 2px solid #534D54;
+  background: #858884;
+  font-size: 36px;
+  font-family: Source Sans Pro, sans-serif;
+  font-weight: bold;
+  color: #F3F3F4;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  max-height: 60px;
+  width: 85vw;
+  max-width: 900px;
+  margin-top: 10px;
+
+  .logo-icon{
+    margin-left: 15px;
+  }
+}

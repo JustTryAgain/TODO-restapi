@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #C4C4C4;
+}
+
+.todo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
